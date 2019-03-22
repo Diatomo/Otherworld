@@ -1,6 +1,6 @@
 # Otherworld
   
-** Collections of Programs for Otherworld Exhibits **  
+**Collections of Programs for Otherworld Exhibits**  
 Contact : Charles C. Stevenson  
 Email : Wojtekenson@gmail.com  
   
