@@ -21,6 +21,7 @@ Funeral Scene:
 	DMX uses pin 4
 ## ssh
 If you need to rework things on the pi, reverse the steps in the Disable Swap and Filesystem section and
-then ssh into the pi. The command on linux is:  
+then ssh into the pi.  
+**The command on linux is:**  
 ```ssh -X pi@192.168.1.188```  
 ```PW :: raspberry```
