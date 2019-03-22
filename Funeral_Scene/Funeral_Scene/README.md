@@ -15,10 +15,9 @@ is passed to the processing sketch which will crossfade the audio tracks.
 
 # Pin Information
 
-Funeral Scene:
-
 	Inductive Sensor is on Pin 7
 	DMX uses pin 4
+	
 ## ssh
 If you need to rework things on the pi, reverse the steps in the Disable Swap and Filesystem section and
 then ssh into the pi.  
