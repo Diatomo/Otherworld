@@ -28,6 +28,6 @@ Run a Processing Sketch on Boot (rpi)
 https://electricnoodlebox.wordpress.com/tutorials/processing-raspberry-pi-auto-run-a-sketch-on-boot/  
 
 Read-Only (rpi)  
-Import sections include :: Log Management and Disable Swap and Filesystem Check  
+Import sections include :: Log Management and Disable Swap, Filesystem Check, Fancy Indicators, Startup Script  
 https://hallard.me/raspberry-pi-read-only/  
 
