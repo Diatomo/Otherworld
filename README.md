@@ -1,9 +1,9 @@
 # Otherworld
-
-Collections of Programs for Otherworld Exhibits
-Contact : Charles C. Stevenson
-Email : Wojtekenson@gmail.com
-
+  
+Collections of Programs for Otherworld Exhibits  
+Contact : Charles C. Stevenson  
+Email : Wojtekenson@gmail.com  
+  
 ## To build:
 	
 * Place Arduino Library directories in your local arduino library. (check IDE for path)  
