@@ -21,6 +21,3 @@ is passed to the processing sketch which will crossfade the audio tracks.
 ## ssh
 If you need to rework things on the pi, reverse the steps in the Disable Swap and Filesystem section and
 then ssh into the pi.  
-**The command on linux is:**  
-```ssh -X pi@192.168.1.188```  
-```PW :: raspberry```
